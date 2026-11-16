@@ -1,0 +1,6 @@
+{
+  "name": "Földrajzi felfedezések – 6. osztály",
+  "description": "Interaktív, animált világtérképes történelem feladat a nagy földrajzi felfedezésekről 6. osztályosoknak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
